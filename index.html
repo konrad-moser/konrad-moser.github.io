@@ -8,7 +8,23 @@
 </head>
 
 <body>
+
+  <link rel="stylesheet" href="https://mczak.com/code/clock/css/mcclock.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+  <script src="https://mczak.com/code/clock/js/mcclock.js"></script>
+  <!-- </head> -->
   
+  <!-- <body> -->
+  <div class="clock" style="margin:2em;"></div>
+  <script>
+    var clock;
+    $(document).ready(function() {
+      clock = $('.clock').FlipClock({
+        clockFace: 'TwelveHourClock'
+      });
+    });
+  </script>
+
 <h1> Test: Konrad Moser </h1>
 
 <label for="cars">Choose a car:</label>
