@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns="urn:xtk:session" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+   <SOAP-ENV:Body>
+      <LogonResponse SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" xmlns="urn:xtk:session">
+         <pstrSessionToken xsi:type="xsd:string">___5b6977d4-6e2f-411e-9cbd-e4c2d269c125</pstrSessionToken>
+         <pSessionInfo xsi:type="ns:Element" SOAP-ENV:encodingStyle="http://xml.apache.org/xml-soap/literalxml">
+            <sessionInfo>
+               <serverInfo advisedClientBuildNumber="9330" advisedClientName="" advisedClientVersion="" allowSQL="true" buildNumber="9330" commitId="6845b43" databaseId="u9e09096b-66fa-4c02-b02d-b88ff5a0cf43" defaultNameSpace="cus" fohVersion="2" instanceName="neodemo" majNumber="6" minClientBuildNumber="9319" minNumber="7" minNumberTechnical="0" releaseName="21.1" securityTimeOut="86400" serverDate="2021-08-04 16:38:02.605Z" servicePack="0" sessionTimeOut="86400" useVault="false"/>
+               <userInfo datakitInDatabase="true" homeDir="" instanceLocale="en-US" locale="en-US" login="admin" loginCS="Administrator (System admin)" loginId="1041" noConsoleCnx="false" orgUnitId="0" theme="" timezone="UTC">
+                  <login-group id="1042"/>
+                  <login-right right="admin"/>
+                  <installed-package name="supplier" namespace="neo"/>
+                  <installed-package name="Deliveries" namespace="neo"/>
+                  <installed-package name="Offers" namespace="neo"/>
+                  <installed-package name="dbMonitoring" namespace="neo"/>
+                  <installed-package name="responseReport" namespace="neo"/>
+                  <installed-package name="Nouveau" namespace="neo"/>
+                  <installed-package name="socialReports" namespace="neo"/>
+                  <installed-package name="offersUsingAEMAssets" namespace="cus"/>
+                  <installed-package name="dataManagement" namespace="neo"/>
+                  <installed-package name="cmGenericContentManager" namespace="neo"/>
+                  <installed-package name="neoVIPSubscription" namespace="neo"/>
+                  <installed-package name="neoAdminMoveCommunicationDates" namespace="neo"/>
+                  <installed-package name="category" namespace="neo"/>
+                  <installed-package name="ProductNewsletterContentManagement" namespace="mla"/>
+                  <installed-package name="enum" namespace="neo"/>
+                  <installed-package name="filter" namespace="neo"/>
+                  <installed-package name="forum" namespace="neo"/>
+                  <installed-package name="measurementHypothesis" namespace="neo"/>
+                  <installed-package name="marketingCampaignOperators" namespace="neo"/>
+                  <installed-package name="campaignTemplateExport" namespace="neo"/>
+                  <installed-package name="prepaCOntactPlan" namespace="neo"/>
+                  <installed-package name="contentTemplate" namespace="neo"/>
+                  <installed-package name="report" namespace="neo"/>
+                  <installed-package name="neoTrackingGeneration" namespace="neo"/>
+                  <installed-package name="parameters" namespace="neo"/>
+                  <installed-package name="workflow" namespace="neo"/>
+                  <installed-package name="socialoperator" namespace="neo"/>
+                  <installed-package name="service" namespace="neo"/>
+                  <installed-package name="typology" namespace="neo"/>
+                  <installed-package name="webApp" namespace="neo"/>
+                  <installed-package name="message" namespace="nmc"/>
+                  <installed-package name="MyBrandPKG" namespace="neo"/>
+                  <installed-package name="listMgtOnly" namespace="neo"/>
+                  <installed-package name="PKG3" namespace="neo"/>
+                  <installed-package name="neobizCRM610" namespace="neo"/>
+                  <installed-package name="cmGenericContentManager1" namespace="neo"/>
+                  <installed-package name="loyalty" namespace="neo"/>
+                  <installed-package name="localOrgUnit" namespace="neo"/>
+                  <installed-package name="usLocalisation" namespace="neo"/>
+                  <installed-package name="KPIbuilder" namespace="neo"/>
+                  <installed-package name="InteractionToolKit" namespace="neo"/>
+                  <installed-package name="PV2_MH" namespace="neo"/>
+                  <installed-package name="mobileApp" namespace="nms"/>
+                  <installed-package name="simulation" namespace="nms"/>
+                  <installed-package name="snowflake" namespace="nms"/>
+                  <installed-package name="deliverability" namespace="nms"/>
+                  <installed-package name="systemStrings" namespace="nms"/>
+                  <installed-package name="core" namespace="nms"/>
+                  <installed-package name="vertica" namespace="nms"/>
+                  <installed-package name="bigquery" namespace="nms"/>
+                  <installed-package name="saphana" namespace="nms"/>
+                  <installed-package name="content" namespace="ncm"/>
+                  <installed-package name="neolap" namespace="nms"/>
+                  <installed-package name="abtesting" namespace="acx"/>
+                  <installed-package name="ProfileScoringAccelerator" namespace="neo"/>
+                  <installed-package name="line" namespace="nms"/>
+                  <installed-package name="messageCenterExec" namespace="nms"/>
+                  <installed-package name="core" namespace="acx"/>
+                  <installed-package name="federatedDataAccess" namespace="nms"/>
+                  <installed-package name="mobile" namespace="nms"/>
+                  <installed-package name="ruleset" namespace="nms"/>
+                  <installed-package name="gdpr" namespace="nms"/>
+                  <installed-package name="paper" namespace="nms"/>
+                  <installed-package name="teradata" namespace="nms"/>
+                  <installed-package name="social" namespace="nms"/>
+                  <installed-package name="coreInteraction" namespace="nms"/>
+                  <installed-package name="report" namespace="nms"/>
+                  <installed-package name="campaign" namespace="nms"/>
+                  <installed-package name="inboxRendering" namespace="nms"/>
+                  <installed-package name="billing" namespace="nms"/>
+                  <installed-package name="messageCenterControl" namespace="nms"/>
+                  <installed-package name="response" namespace="nms"/>
+                  <installed-package name="centralLocal" namespace="nms"/>
+                  <installed-package name="predictive" namespace="nms"/>
+                  <installed-package name="connectors" namespace="crm"/>
+                  <installed-package name="aamIntegration" namespace="nms"/>
+                  <installed-package name="hive" namespace="nms"/>
+                  <installed-package name="azuredw" namespace="nms"/>
+                  <installed-package name="messageCenter" namespace="nms"/>
+                  <installed-package name="webAnalytics" namespace="nms"/>
+                  <installed-package name="phone" namespace="nms"/>
+                  <installed-package name="aemIntegration" namespace="nms"/>
+                  <installed-package name="core" namespace="xtk"/>
+                  <installed-package name="interaction" namespace="nms"/>
+                  <installed-package name="japanLoc" namespace="nms"/>
+                  <installed-package name="campaignOptimization" namespace="nms"/>
+                  <installed-package name="coupon" namespace="nms"/>
+                  <installed-package name="acsProvisioning" namespace="nms"/>
+                  <installed-package name="country" namespace="nms"/>
+                  <installed-package name="macIntegration" namespace="nms"/>
+                  <installed-package name="survey" namespace="nms"/>
+                  <installed-package name="mrm" namespace="nms"/>
+                  <installed-package name="purl" namespace="nms"/>
+                  <installed-package name="fax" namespace="nms"/>
+                  <installed-package name="folder" namespace="nms"/>
+                  <installed-package name="heatmap" namespace="nms"/>
+               </userInfo>
+            </sessionInfo>
+         </pSessionInfo>
+         <pstrSecurityToken xsi:type="xsd:string">@4EmDMP0-7SfnorkpnntWnPTCawJsxY3bJF1wCFATKWyYUuBB5aavTgLCqUKwJgAwHEz5c_AFipHbZVAQLaKGpw==</pstrSecurityToken>
+      </LogonResponse>
+   </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
