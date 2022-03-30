@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+       <ClientParameters>   
+             <ClientSalutation>Madame</ClientSalutation>
+             <ClientName>Maria Hène</ClientName>
+             <ClientStreet>Rue du dessin 9</ClientStreet>
+             <ClientZip>1000</ClientZip>
+             <ClientTown>Canardville</ClientTown>
+	         <AccountParameters> 
+	             <AccountNumber>0800-000001-01</AccountNumber>
+	         </AccountParameters>
+       </ClientParameters>
+       <RequestSpecificParameters>
+             <SpecDate>2022-02-28</SpecDate>
+             <SpecAmount>12000000</SpecAmount>
+             <SpecRequestId>0000;0012;ASDF021;F50420220221053002;</SpecRequestId>
+       </RequestSpecificParameters>
+</Document>

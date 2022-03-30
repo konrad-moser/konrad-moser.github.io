@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+       <ClientParameters>   
+             <ClientSalutation>Herr</ClientSalutation>
+             <ClientName>Daniel Düsi</ClientName>
+             <ClientStreet>Musterstrasse 3</ClientStreet>
+             <ClientZip>0000</ClientZip>
+             <ClientTown>Entenhausen</ClientTown>
+	         <AccountParameters> 
+	             <AccountNumber>0835-000000-15</AccountNumber>
+	         </AccountParameters>
+       </ClientParameters>
+       <RequestSpecificParameters>
+             <SpecDate>2022-03-02</SpecDate>
+             <SpecAmount>1183</SpecAmount>
+             <SpecRequestId>0000;0011;ASDE021;F50420220221052030;</SpecRequestId>
+       </RequestSpecificParameters>
+</Document>
