@@ -5,29 +5,4 @@
            <Ticker>ADBE</Ticker>
            <ClosePrice>250</ClosePrice>
        </Data-01>
-       <Data-02>
-           <Date>02-04-2022</Date>
-           <Ticker>ADBE</Ticker>
-           <ClosePrice>251</ClosePrice>
-       </Data-02>
-          <Data-03>
-           <Date>03-04-2022</Date>
-           <Ticker>ADBE</Ticker>
-           <ClosePrice>248</ClosePrice>
-       </Data-03>
-          <Data-04>
-           <Date>04-04-2022</Date>
-           <Ticker>ADBE</Ticker>
-           <ClosePrice>249</ClosePrice>
-       </Data-04>
-          <Data-05>
-           <Date>05-04-2022</Date>
-           <Ticker>ADBE</Ticker>
-           <ClosePrice>255</ClosePrice>
-       </Data-05>
-          <Data-06>
-           <Date>06-04.2022</Date>
-           <Ticker>ADBE</Ticker>
-           <ClosePrice>248</ClosePrice>
-       </Data-06>
 </Document>
