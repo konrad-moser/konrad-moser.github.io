@@ -5,4 +5,9 @@
            <Ticker>ADBE</Ticker>
            <ClosePrice>250</ClosePrice>
        </Data-01>
+       <Data-01>
+          <Date>02-04-2022</Date>
+          <Ticker>ADBE</Ticker>
+          <ClosePrice>248</ClosePrice>
+       </Data-01>
 </Document>
