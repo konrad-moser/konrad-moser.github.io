@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
        <ClientParameters>   
-             <ClientSalutation>Frau</ClientSalutation>
-             <ClientName>Daniela Düsi</ClientName>
+             <ClientSalutation>Herr</ClientSalutation>
+             <ClientName>Daniel Düsi</ClientName>
              <ClientStreet>Musterstrasse 3</ClientStreet>
              <ClientZip>0000</ClientZip>
              <ClientTown>Entenhausen</ClientTown>
