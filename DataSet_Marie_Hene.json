@@ -1,0 +1,177 @@
+{
+    "fund": {
+        "Name": "CS Mid Cap Fund",
+        "Performances": [
+            {
+                "Year": "2014",
+                "Amount": 10000
+            },
+            {
+                "Year": "2015",
+                "Amount": 22000
+            },
+            {
+                "Year": "2016",
+                "Amount": 27000
+            },
+            {
+                "Year": "2017",
+                "Amount": 32000
+            },
+            {
+                "Year": "2018",
+                "Amount": 34000
+            },
+            {
+                "Year": "2019",
+                "Amount": 36000
+            },
+            {
+                "Year": "2020",
+                "Amount": 35000
+            },
+            {
+                "Year": "2021",
+                "Amount": 37000
+            }
+        ]
+    },
+    "performance": {
+        "Year": "aliqua nis",
+        "Amount": 13
+    },
+    "organization": {
+        "Funds": [
+            {
+                "Name": "CS Mid Cap Fund",
+                "Performances": [
+                    {
+                        "Year": "2014",
+                        "Amount": 10000
+                    },
+                    {
+                        "Year": "2015",
+                        "Amount": 22000
+                    },
+                    {
+                        "Year": "2016",
+                        "Amount": 27000
+                    },
+                    {
+                        "Year": "2017",
+                        "Amount": 32000
+                    },
+                    {
+                        "Year": "2018",
+                        "Amount": 34000
+                    },
+                    {
+                        "Year": "2019",
+                        "Amount": 36000
+                    },
+                    {
+                        "Year": "2020",
+                        "Amount": 35000
+                    },
+                    {
+                        "Year": "2021",
+                        "Amount": 37000
+                    }
+                ]
+            },
+            {
+                "Name": "SPY",
+                "Performances": [
+                    {
+                        "Year": "2014",
+                        "Amount": 10000
+                    },
+                    {
+                        "Year": "2015",
+                        "Amount": 15000
+                    },
+                    {
+                        "Year": "2016",
+                        "Amount": 19000
+                    },
+                    {
+                        "Year": "2017",
+                        "Amount": 22000
+                    },
+                    {
+                        "Year": "2018",
+                        "Amount": 23000
+                    },
+                    {
+                        "Year": "2019",
+                        "Amount": 21000
+                    },
+                    {
+                        "Year": "2020",
+                        "Amount": 20000
+                    },
+                    {
+                        "Year": "2021",
+                        "Amount": 23000
+                    }
+                ]
+            },
+            {
+                "Name": "VGIX",
+                "Performances": [
+                    {
+                        "Year": "2014",
+                        "Amount": 10000
+                    },
+                    {
+                        "Year": "2015",
+                        "Amount": 12000
+                    },
+                    {
+                        "Year": "2016",
+                        "Amount": 18000
+                    },
+                    {
+                        "Year": "2017",
+                        "Amount": 12000
+                    },
+                    {
+                        "Year": "2018",
+                        "Amount": 8000
+                    },
+                    {
+                        "Year": "2019",
+                        "Amount": 9000
+                    },
+                    {
+                        "Year": "2020",
+                        "Amount": 11000
+                    },
+                    {
+                        "Year": "2021",
+                        "Amount": 14000
+                    }
+                ]
+            }
+        ]
+    },
+    "JSFile": {
+        "Document": {
+    "ClientParameters": {
+      "ClientSalutation": "Madame",
+      "ClientName": "Maria Hène",
+      "ClientStreet": "Rue du dessin 9",
+      "ClientZip": "1000",
+      "ClientTown": "Canardville",
+      "AccountParameters": {
+        "AccountNumber": "0800-000001-01"
+      }
+    },
+    "RequestSpecificParameters": {
+      "SpecDate": "2022-02-28",
+      "SpecAmount": "12000000",
+      "SpecRequestId": "0000;0012;ASDF021;F50420220221053002;"
+            }
+        }
+    }
+}

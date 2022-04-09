@@ -1,0 +1,177 @@
+{
+    "fund": {
+        "Name": "CS Mid Cap Fund",
+        "Performances": [
+            {
+                "Year": "2014",
+                "Amount": 10000
+            },
+            {
+                "Year": "2015",
+                "Amount": 22000
+            },
+            {
+                "Year": "2016",
+                "Amount": 27000
+            },
+            {
+                "Year": "2017",
+                "Amount": 32000
+            },
+            {
+                "Year": "2018",
+                "Amount": 34000
+            },
+            {
+                "Year": "2019",
+                "Amount": 36000
+            },
+            {
+                "Year": "2020",
+                "Amount": 35000
+            },
+            {
+                "Year": "2021",
+                "Amount": 37000
+            }
+        ]
+    },
+    "performance": {
+        "Year": "aliqua nis",
+        "Amount": 13
+    },
+    "organization": {
+        "Funds": [
+            {
+                "Name": "CS Mid Cap Fund",
+                "Performances": [
+                    {
+                        "Year": "2014",
+                        "Amount": 10000
+                    },
+                    {
+                        "Year": "2015",
+                        "Amount": 22000
+                    },
+                    {
+                        "Year": "2016",
+                        "Amount": 27000
+                    },
+                    {
+                        "Year": "2017",
+                        "Amount": 32000
+                    },
+                    {
+                        "Year": "2018",
+                        "Amount": 34000
+                    },
+                    {
+                        "Year": "2019",
+                        "Amount": 36000
+                    },
+                    {
+                        "Year": "2020",
+                        "Amount": 35000
+                    },
+                    {
+                        "Year": "2021",
+                        "Amount": 37000
+                    }
+                ]
+            },
+            {
+                "Name": "SPY",
+                "Performances": [
+                    {
+                        "Year": "2014",
+                        "Amount": 10000
+                    },
+                    {
+                        "Year": "2015",
+                        "Amount": 15000
+                    },
+                    {
+                        "Year": "2016",
+                        "Amount": 19000
+                    },
+                    {
+                        "Year": "2017",
+                        "Amount": 22000
+                    },
+                    {
+                        "Year": "2018",
+                        "Amount": 23000
+                    },
+                    {
+                        "Year": "2019",
+                        "Amount": 21000
+                    },
+                    {
+                        "Year": "2020",
+                        "Amount": 20000
+                    },
+                    {
+                        "Year": "2021",
+                        "Amount": 23000
+                    }
+                ]
+            },
+            {
+                "Name": "VGIX",
+                "Performances": [
+                    {
+                        "Year": "2014",
+                        "Amount": 10000
+                    },
+                    {
+                        "Year": "2015",
+                        "Amount": 12000
+                    },
+                    {
+                        "Year": "2016",
+                        "Amount": 18000
+                    },
+                    {
+                        "Year": "2017",
+                        "Amount": 12000
+                    },
+                    {
+                        "Year": "2018",
+                        "Amount": 8000
+                    },
+                    {
+                        "Year": "2019",
+                        "Amount": 9000
+                    },
+                    {
+                        "Year": "2020",
+                        "Amount": 11000
+                    },
+                    {
+                        "Year": "2021",
+                        "Amount": 14000
+                    }
+                ]
+            }
+        ]
+    },
+    "JSFile": {
+        "Document": {
+            "ClientParameters": {
+                "ClientSalutation": "Herr",
+                "ClientName": "Daniel Düsi",
+                "ClientZip": "0000",
+                "AccountParameters": {
+                    "AccountNumber": "0835-000000-15"
+                },
+                "ClientStreet": "Musterstrasse 3",
+                "ClientTown": "Entenhausen"
+            },
+            "RequestSpecificParameters": {
+                "SpecDate": "02.03.2022",
+                "SpecAmount": 1183,
+                "SpecRequestId": "0000;0011;ASDE021;F50420220221052030;"
+            }
+        }
+    }
+}
